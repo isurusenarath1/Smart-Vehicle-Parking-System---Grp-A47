@@ -1,0 +1,134 @@
+{
+  "bookings": {
+    "-NtXfwpXxLI1CA_fviii": {
+      "arrival": 1711052502319,
+      "departure": 1711052671350,
+      "email": "user@gmail.com",
+      "name": "User",
+      "parking": "Parking 1",
+      "timestamp": 1711052502319,
+      "user": "y9D88Z1GX2hryrvaFr2UBf6v8KF3"
+    },
+    "-NtXg3LUVHf33u25P50V": {
+      "arrival": 1711052683580,
+      "departure": 1711052702408,
+      "email": "user@gmail.com",
+      "name": "User",
+      "parking": "Parking 1",
+      "timestamp": 1711052683580,
+      "user": "y9D88Z1GX2hryrvaFr2UBf6v8KF3"
+    },
+    "-NtXgCoJl8UvQKWDBx9v": {
+      "arrival": 1711052728075,
+      "departure": 1711052741249,
+      "email": "user@gmail.com",
+      "name": "User",
+      "parking": "Parking 1",
+      "timestamp": 1711052728075,
+      "user": "y9D88Z1GX2hryrvaFr2UBf6v8KF3"
+    },
+    "-NtXgdb6WBeCpKNmqAb8": {
+      "arrival": 1711052847083,
+      "departure": 1711052855034,
+      "email": "user2@gmail.com",
+      "name": "User2",
+      "parking": "Parking 1",
+      "timestamp": 1711052847083,
+      "user": "gAY0t1ZLvkQ7YQnllrgUEPYDzl03"
+    },
+    "-NtXjmuuEzCoxEiU20km": {
+      "arrival": 1711053667768,
+      "departure": 1711053679636,
+      "email": "user@gmail.com",
+      "name": "User",
+      "parking": "Parking 1",
+      "timestamp": 1711053667768,
+      "user": "y9D88Z1GX2hryrvaFr2UBf6v8KF3"
+    },
+    "-NtXlgWxYD30B_n3ZPFP": {
+      "arrival": 1711054155425,
+      "departure": 1711054177533,
+      "email": "user@gmail.com",
+      "name": "User",
+      "parking": "Parking 1",
+      "timestamp": 1711054155425,
+      "user": "y9D88Z1GX2hryrvaFr2UBf6v8KF3"
+    }
+  },
+  "parkings": {
+    "-NtWu3CCWVF4ne8J69uK": {
+      "address": "115/3 Dutugamunu Street",
+      "bookings": {
+        "gAY0t1ZLvkQ7YQnllrgUEPYDzl03": {
+          "-NtXgbUfricdpMYzWESU": {
+            "arrival": 1711052847083,
+            "departure": 1711052855034,
+            "isNew": true,
+            "status": 2
+          }
+        },
+        "y9D88Z1GX2hryrvaFr2UBf6v8KF3": {
+          "-NtXfIJjbrYyvid5BDFk": {
+            "arrival": 1711052502319,
+            "departure": 1711052671350,
+            "isNew": true,
+            "status": 2
+          },
+          "-NtXfzZwjsABgQPu5ccv": {
+            "arrival": 1711052683580,
+            "departure": 1711052702408,
+            "isNew": true,
+            "status": 2
+          },
+          "-NtXg9RAYB_0zWJ6jDe4": {
+            "arrival": 1711052728075,
+            "departure": 1711052741249,
+            "isNew": true,
+            "status": 2
+          },
+          "-NtXjjqslvNTs3AFO1y8": {
+            "arrival": 1711053667768,
+            "departure": 1711053679636,
+            "isNew": true,
+            "status": 2
+          },
+          "-NtXlauWkt_Vs7zMw2Gh": {
+            "arrival": 1711054155425,
+            "departure": 1711054177533,
+            "isNew": true,
+            "status": 2
+          }
+        }
+      },
+      "door": true,
+      "lng": "79.889882",
+      "ltd": "6.868669",
+      "name": "Parking 1",
+      "phone": "0779778569",
+      "slots": 102
+    }
+  },
+  "users": {
+    "gAY0t1ZLvkQ7YQnllrgUEPYDzl03": {
+      "email": "user2@gmail.com",
+      "mobile": "0719778269",
+      "name": "User2",
+      "nic": "962042807V",
+      "type": 1
+    },
+    "lAddbn8DQ8WnQal9yylZryASA5q1": {
+      "email": "admin@gmail.com",
+      "mobile": "0779778569",
+      "name": "Administrator",
+      "nic": "952042807V",
+      "type": 2
+    },
+    "y9D88Z1GX2hryrvaFr2UBf6v8KF3": {
+      "email": "user@gmail.com",
+      "mobile": "0779778269",
+      "name": "User",
+      "nic": "952042807V",
+      "type": 1
+    }
+  }
+}
